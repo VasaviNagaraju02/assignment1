@@ -1,7 +1,7 @@
 package assignment1;
 
 abstract class Parent{
-	void message1() {
+	void message1() {}
 }
 	class Subclass1 extends Parent{
 		void message1() {
